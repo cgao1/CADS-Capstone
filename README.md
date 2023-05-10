@@ -1,9 +1,9 @@
 # What Makes for a Happy Population: an Economic, Social, and Citizen Opinions Investigation
 
 ## Description
-This is a capstone research project for the Applied Data Science Certificate Programat Wesleyan University.
+This is a capstone research project for the Applied Data Science Certificate Program at Wesleyan University.
 
-< img src ="smile.jpeg" align="right" />
+![Smile][smile.jpeg]
 
 - **AUTHOR:** Calvin Gao
 - **ADVISOR:** Professor Maryam Gooyabadi
