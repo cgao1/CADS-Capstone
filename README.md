@@ -3,7 +3,7 @@
 ## Description
 This is a capstone research project for the Applied Data Science Certificate Program at Wesleyan University.
 
-![Smile][smile.jpeg]
+![Smile](smile.jpeg)
 
 - **AUTHOR:** Calvin Gao
 - **ADVISOR:** Professor Maryam Gooyabadi
