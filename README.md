@@ -17,7 +17,7 @@ This is a capstone research project for the Applied Data Science Certificate Pro
 
 ## Other Materials:
 
--   [Presentation_One.pptx](https://github.com/cgao1/CADS-Capstone/blob/main/Presentation_One.pdf) contains my presentation slides for the student speakers series and outlines literature reviews, variables, dataset subsets and several regressions completed. These slides present the progress within the semester and does not have the complete analysis.
+-   [Presentation_One.pptx](https://github.com/cgao1/CADS-Capstone/blob/main/Presentation_One.pdf) contains my presentation slides for the Quantitative Analysis Center student speakers series and outlines literature reviews, variables, dataset subsets and several regressions completed as of the day of presentation. These slides present the progress within the semester and does not have the complete analysis.
 -  
 -   measures and analytical methods, findings, and recommendations.
 
