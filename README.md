@@ -19,10 +19,6 @@ This is a capstone research project for the Applied Data Science Certificate Pro
 
 -   [Codebook.pdf](https://github.com/cgao1/CADS-Capstone/blob/main/codebook.pdf) contains the codebook and description of all the variables collected from the World Happiness Report and World Bank.
 -   [CodebookLPI.pdf](https://github.com/cgao1/CADS-Capstone/blob/main/codebook%20LPI.pdf) contains the codebook and description of the variables for the Legatum Prosperity Index.
-
-
 -   [Presentation_One.pptx](https://github.com/cgao1/CADS-Capstone/blob/main/Presentation_One.pdf) contains my presentation slides for the Quantitative Analysis Center student speakers series and outlines literature reviews, variables, dataset subsets and analytical methods completed as of the day of presentation. These slides present the progress within the semester and does not have the complete analysis.
-
 -   [Presentation_Two.pptx](https://github.com/cgao1/CADS-Capstone/blob/main/Presentation_Two.pdf) contains my presentation slides for the final presentation and adds on to the previous slides through visualizations, gap analysis, findings, and recommendations.
-
 -   [cgao_CADS_capstone_spring2023.pdf]() is the final paper of this presented work.
